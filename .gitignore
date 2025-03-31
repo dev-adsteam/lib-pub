@@ -1,0 +1,17 @@
+bazel-*
+proto_src
+.vscode/
+.cproject
+.project
+.settings/
+tags
+.idea
+tmp
+.bazelrc
+/Debug/
+*.pb.cc
+*.pb.h
+redis.log
+db_bak/
+.DS_Store
+
